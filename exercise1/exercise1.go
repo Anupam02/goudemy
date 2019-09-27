@@ -10,4 +10,5 @@ func main() {
 	fmt.Print(x)
 	fmt.Print(y)
 	fmt.Print(z)
+
 }
